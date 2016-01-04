@@ -1,0 +1,24 @@
+.topMargin10 {
+     padding-top: 60px;
+ }
+.leftMargin {
+    padding-left: 2cm;
+}
+.rightMargin {
+    padding-right: 2cm;
+}
+.leftMarginIndented {
+    padding-left: 3cm;
+}
+
+.alignRight {
+    text-align: right;
+}
+
+.width80 {
+    width: 80px;
+}
+
+.height200 {
+    height: 200px;
+}
